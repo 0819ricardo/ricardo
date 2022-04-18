@@ -1,0 +1,2 @@
+# ricardo
+desenvolver software 
